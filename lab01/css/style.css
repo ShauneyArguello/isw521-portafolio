@@ -1,0 +1,149 @@
+:root {
+    --azul: #004a99;
+    --gris: #333;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    color: var(--gris);
+    background: white;
+}
+
+header,
+nav,
+footer,
+aside {
+    background: var(--azul);
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+header h1,
+header p {
+    color: white;
+}
+
+h1,
+h2,
+h3 {
+    color: var(--azul);
+}
+
+nav ul {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    list-style: none;
+    padding: 0;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+main {
+    padding: 20px;
+}
+
+section {
+    background: white;
+    text-align: center;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+#servicios {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 15px;
+}
+
+#servicios h2 {
+    grid-column: 1 / -1;
+}
+
+article {
+    padding: 15px;
+    border: 1px solid #ddd;
+}
+
+.servicio {
+    width: 100%;
+    height: 220px;
+    object-fit: cover;
+}
+
+.ubicacion {
+    width: 100%;
+    max-width: 400px;
+}
+
+#btnModo {
+    background: white;
+    color: var(--azul);
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+}
+
+a:focus,
+button:focus {
+    outline: 3px solid black;
+}
+
+/* Modo oscuro */
+.modo-oscuro {
+    background: #121212;
+    color: white;
+}
+
+.modo-oscuro section,
+.modo-oscuro article {
+    background: #1e1e1e;
+    color: white;
+}
+
+.modo-oscuro h1,
+.modo-oscuro h2,
+.modo-oscuro h3,
+.modo-oscuro p {
+    color: white;
+}
+
+/* Celulares */
+@media (max-width: 767px) {
+    nav ul {
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    body {
+        font-size: 14px;
+    }
+
+    .servicio {
+        height: 180px;
+    }
+}
+
+/* Tablets */
+@media (min-width: 768px) {
+    #servicios {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+/* Computadoras */
+@media (min-width: 1024px) {
+    #servicios {
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
