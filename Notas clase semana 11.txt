@@ -1,0 +1,5 @@
+Notas clase semana 11
+Api para el proyecto, 
+Instalación de Docker
+Postman 
+Enseñanza de como funciona el token
