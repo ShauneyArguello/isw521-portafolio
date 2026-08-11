@@ -1,0 +1,14 @@
+C:\Users\argue\Downloads\CompositeDemo\CompositeDemo\bin\Debug\net8.0\CompositeDemo.exe
+C:\Users\argue\Downloads\CompositeDemo\CompositeDemo\bin\Debug\net8.0\CompositeDemo.deps.json
+C:\Users\argue\Downloads\CompositeDemo\CompositeDemo\bin\Debug\net8.0\CompositeDemo.runtimeconfig.json
+C:\Users\argue\Downloads\CompositeDemo\CompositeDemo\bin\Debug\net8.0\CompositeDemo.dll
+C:\Users\argue\Downloads\CompositeDemo\CompositeDemo\bin\Debug\net8.0\CompositeDemo.pdb
+C:\Users\argue\Downloads\CompositeDemo\CompositeDemo\obj\Debug\net8.0\CompositeDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\argue\Downloads\CompositeDemo\CompositeDemo\obj\Debug\net8.0\CompositeDemo.AssemblyInfoInputs.cache
+C:\Users\argue\Downloads\CompositeDemo\CompositeDemo\obj\Debug\net8.0\CompositeDemo.AssemblyInfo.cs
+C:\Users\argue\Downloads\CompositeDemo\CompositeDemo\obj\Debug\net8.0\CompositeDemo.csproj.CoreCompileInputs.cache
+C:\Users\argue\Downloads\CompositeDemo\CompositeDemo\obj\Debug\net8.0\CompositeDemo.dll
+C:\Users\argue\Downloads\CompositeDemo\CompositeDemo\obj\Debug\net8.0\refint\CompositeDemo.dll
+C:\Users\argue\Downloads\CompositeDemo\CompositeDemo\obj\Debug\net8.0\CompositeDemo.pdb
+C:\Users\argue\Downloads\CompositeDemo\CompositeDemo\obj\Debug\net8.0\CompositeDemo.genruntimeconfig.cache
+C:\Users\argue\Downloads\CompositeDemo\CompositeDemo\obj\Debug\net8.0\ref\CompositeDemo.dll
