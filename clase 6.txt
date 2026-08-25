@@ -1,0 +1,14 @@
+clase 6
+js 
+let: cuando el valor puede cambiar.
+const: cuando no queremos reasignar el valor.
+
+number: números.
+string: textos.
+boolean: true o false.
+null: ausencia de un valor.
+undefined: una variable que todavía no tiene un valor.
+bigint: números enteros muy grandes.
+symbol: valores únicos.
+
+El DOM representa el HTML como un árbol de elementos. JavaScript puede utilizarlo para buscar y modificar

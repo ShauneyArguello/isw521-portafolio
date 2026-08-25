@@ -1,0 +1,11 @@
+clase 3 y 4
+ Responsive Design y Accesibilidad
+
+
+Flexbox: sirve para acomodar y alinear elementos de una página de una forma más sencilla.
+CSS Grid: permite organizar el contenido usando filas y columnas
+Diseño responsivo:ayuda a que una página se adapte a diferentes tamaños de pantalla
+Accesibilidad: busca que la página sea fácil de usar y entender para la mayor cantidad de personas posible.¿
+Responsive Techniques:son diferentes técnicas que podemos aplicar en CSS para que el diseño cambie dependiendo del dispositivo
+
+

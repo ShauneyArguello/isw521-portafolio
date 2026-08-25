@@ -1,0 +1,19 @@
+semana 7
+Las Promises representan una operación que puede tardar en terminar.
+
+Una promesa puede estar:
+
+pending: esperando.
+fulfilled: completada correctamente.
+rejected: ocurrió un error
+
+async y await hacen más fácil trabajar con operaciones que tardan, como consultar una API.
+API REST permite que diferentes sistemas se comuniquen utilizando peticio
+
+GET: obtener información.
+POST: crear información.
+PUT: reemplazar información.
+PATCH: actualizar parcialmente.
+DELETE: eliminar información
+
+fetch() se utiliza para hacer peticiones a una API desde JavaScript.
